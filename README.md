@@ -1,4 +1,4 @@
-### olá, eu me chamo Rafael Peralta e sou estudante de desenvolvimento web frontend!
+### olá, eu me chamo Rafael Peralta e sou estudante de desenvolvimento web Front End!
 <div align="center">
   <a href="https://github.com/RafaPeralta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPeralta&layout=compact&langs_count=7&theme=dracula"/>
