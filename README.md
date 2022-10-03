@@ -1,4 +1,4 @@
-### Hello, my name is Rafael Peralta and I'm a Front End web development student!
+### Hello, my name is Rafael Peralta and I'm a computer science student and full stack developer!
 <div align="center">
   <a href="https://github.com/RafaPeralta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPeralta&layout=compact&langs_count=7&theme=dracula"/>
